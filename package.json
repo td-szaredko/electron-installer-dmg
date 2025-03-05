@@ -25,6 +25,7 @@
     "node": ">= 16"
   },
   "files": [
+    "dont-ask-where-i-am-going",
     "dist",
     "resources",
     "usage.txt"
@@ -35,7 +36,7 @@
     "minimist": "^1.2.7"
   },
   "optionalDependencies": {
-    "appdmg": "github:SReject/node-appdmg"
+    "appdmg": "github:td-szaredko/node-appdmg"
   },
   "license": "Apache-2.0",
   "devDependencies": {
